@@ -24,7 +24,7 @@ const Hero = () => {
                     <img  src={Scan} alt='' style={{width: "180px"}}/>
                     <br/>
                     <br/>
-                    <span className='p-2 mt-3' style={{background: "#1550A6",
+                    <span className='p-2 mt-3 text-light' style={{background: "#1550A6",
 borderRadius: '4.96085px'}}>Scan to join waitlist</span>
                 </div>
                 <div className="col-md-6">
