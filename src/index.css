@@ -11,3 +11,97 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.xbn-text{
+ 
+width: 350.69px;
+
+
+font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 47.6242px;
+line-height: 53px;
+
+color: #4F4F4F;
+}
+
+.gir_up{
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 47.6242px;
+line-height: 56px;
+/* identical to box height */
+
+
+color: #4F4F4F;
+
+text-shadow: 0px 3.96868px 3.96868px rgba(0, 0, 0, 0.25);
+}
+.apr{
+  font-family: Comfortaa;
+font-style: normal;
+font-weight: bold;
+font-size: 107.154px;
+line-height: 119px;
+/* identical to box height */
+
+
+color: #FF6659;
+}
+
+.when_u{
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 35.7181px;
+line-height: 42px;
+/* identical to box height */
+
+
+color: #4F4F4F;
+}
+.offer_valid{
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 23.8121px;
+line-height: 28px;
+/* identical to box height */
+
+
+color: #4F4F4F;
+
+}
+
+.terms_cond{
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 17.8591px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #4F4F4F;
+
+}
+.while-wait{
+  font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 24.8043px;
+line-height: 30px;
+
+color: #4F4F4F;
+}
+.share_friends{
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 17.8591px;
+line-height: 21px;
+
+color: #4F4F4F;
+}
